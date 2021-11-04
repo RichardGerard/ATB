@@ -1,0 +1,398 @@
+county,country,latitude,longitude,postcode,region
+Aberdeenshire,Scotland,57.04142,-3.17750,AB35 5,Aberdeenshire
+Angus,Scotland,56.69053,-2.78326,DD8 3,Angus
+Argyll and Bute,Scotland,56.60090,-6.58637,PA78 6,Argyll and Bute
+Ayrshire and Arran,Scotland,55.39439,-4.17943,KA18 4,East Ayrshire
+Ayrshire and Arran,Scotland,55.64058,-4.81450,KA22 8,North Ayrshire
+Ayrshire and Arran,Scotland,55.43102,-4.63604,KA7 4,South Ayrshire
+Banffshire,Scotland,57.56028,-2.62878,AB54 7,Aberdeenshire
+Bedfordshire,England,52.22598,-0.45160,MK44 2,Bedford
+Bedfordshire,England,51.85388,-0.44646,LU1 4,Central Bedfordshire
+Bedfordshire,England,51.89298,-0.43036,LU3 1,Luton
+Berkshire,England,51.41250,-0.78752,RG12 8,Bracknell Forest
+Berkshire,England,51.46766,-0.97451,RG4 8,Reading
+Berkshire,England,51.49042,-0.54282,SL3 8,Slough
+Berkshire,England,51.38189,-1.15168,RG7 4,West Berkshire
+Berkshire,England,51.50797,-0.76943,SL6 3,Windsor and Maidenhead
+Berkshire,England,51.40287,-0.91817,RG2 9,Wokingham
+Berwickshire,Scotland,55.84934,-2.38104,TD11 3,Scottish Borders
+Bristol,England,51.44147,-2.55997,BS4 3,City of Bristol
+Buckinghamshire,England,51.95081,-0.92010,MK18 2,Buckinghamshire
+Buckinghamshire,England,52.01545,-0.73202,MK6 4,Milton Keynes
+Caithness,Scotland,58.49279,-3.45459,KW12 6,Highland
+Cambridgeshire,England,52.22595,0.12199,CB4 2,Cambridge
+Cambridgeshire,England,52.57579,-0.35292,PE5 7,City of Peterborough
+Cambridgeshire,England,52.33991,0.12041,CB6 3,East Cambridgeshire
+Cambridgeshire,England,52.54770,0.10010,PE15 9,Fenland
+Cambridgeshire,England,52.19323,-0.20294,PE19 6,Huntingdonshire
+Cambridgeshire,England,52.08326,-0.09371,SG8 0,South Cambridgeshire
+Cheshire,England,53.12742,-2.22966,CW12 3,Cheshire East
+Cheshire,England,53.20672,-2.90149,CH1 4,Cheshire West and Chester
+Cheshire,England,53.37439,-2.73333,WA8 7,Halton
+Cheshire,England,53.34941,-2.57476,WA4 5,Warrington
+City of Aberdeen,Scotland,57.14985,-2.09376,AB24 5,Aberdeen City
+City of Dundee,Scotland,56.48604,-3.01605,DD2 3,Dundee City
+City of Edinburgh,Scotland,55.95738,-3.16970,EH7 5,City of Edinburgh
+City of Glasgow,Scotland,55.89907,-4.30518,G20 0,Glasgow City
+Clackmannan,Scotland,56.11603,-3.79174,FK10 1,Clackmannanshire
+Clwyd,Wales,53.28438,-3.58292,LL22 7,Conwy
+Clwyd,Wales,53.21354,-3.35404,LL16 4,Denbighshire / Sir Ddinbych
+Clwyd,Wales,53.10422,-3.03375,LL12 9,Flintshire / Sir y Fflint
+Clwyd,Wales,52.97813,-3.07938,LL14 3,Wrexham / Wrecsam
+Cornwall,England,50.45996,-4.45615,PL14 3,Cornwall
+Cornwall,England,49.95728,-6.33736,TR24 0,Isles of Scilly
+County Antrim,Northern Ireland,54.64472,-6.24306,BT29 4,Antrim and Newtownabbey
+County Antrim,Northern Ireland,54.53300,-6.31700,BT67 0,Armagh City Banbridge and Craigavon
+County Antrim,Northern Ireland,54.59700,-5.93000,BT1 5,Belfast
+County Antrim,Northern Ireland,55.13000,-6.33000,BT53 8,Causeway Coast and Glens
+County Antrim,Northern Ireland,54.52024,-6.27113,BT67 0,Lisburn and Castlereagh
+County Antrim,Northern Ireland,54.86700,-6.36700,BT42 1,Mid and East Antrim
+County Antrim,Northern Ireland,54.75584,-6.46595,BT41 3,Mid Ulster
+County Armagh,Northern Ireland,54.46800,-6.38300,BT66 6,Armagh City Banbridge and Craigavon
+County Armagh,Northern Ireland,54.44700,-6.69200,BT71 7,Mid Ulster
+County Armagh,Northern Ireland,54.16670,-6.48333,BT35 7,Newry Mourne and Down
+County Derry / Londonderry,Northern Ireland,55.02900,-6.65200,BT51 4,Causeway Coast and Glens
+County Derry / Londonderry,Northern Ireland,54.95600,-7.27900,BT47 3,Derry City and Strabane
+County Derry / Londonderry,Northern Ireland,54.75200,-6.59300,BT45 6,Mid Ulster
+County Down,Northern Ireland,54.47222,-5.69083,BT23 6,Ards and North Down
+County Down,Northern Ireland,54.50900,-6.29400,BT67 0,Armagh City Banbridge and Craigavon
+County Down,Northern Ireland,54.54100,-5.96200,BT8 8,Belfast
+County Down,Northern Ireland,54.10800,-5.90100,BT34 4,Newry Mourne and Down
+County Fermanagh,Northern Ireland,54.22860,-7.27280,BT92 7,Fermanagh and Omagh
+County Tyrone,Northern Ireland,54.83600,-7.28100,BT82 0,Derry City and Strabane
+County Tyrone,Northern Ireland,54.51700,-7.08300,BT79 9,Fermanagh and Omagh
+County Tyrone,Northern Ireland,54.51700,-6.63300,BT71 4,Mid Ulster
+Cumbria,England,54.84466,-3.28970,CA7 4,Allerdale
+Cumbria,England,54.11594,-3.20135,LA13 0,Barrow-in-Furness
+Cumbria,England,54.89969,-2.86437,CA4 8,Carlisle
+Cumbria,England,54.26732,-3.39701,LA19 5,Copeland
+Cumbria,England,54.81242,-2.81106,CA4 9,Eden
+Cumbria,England,54.22952,-2.75881,LA7 7,South Lakeland
+Derbyshire,England,53.10170,-1.37256,DE55 7,Amber Valley
+Derbyshire,England,53.17274,-1.34717,S45 8,Bolsover
+Derbyshire,England,53.24188,-1.47672,S42 7,Chesterfield
+Derbyshire,England,52.88872,-1.45897,DE24 9,City of Derby
+Derbyshire,England,53.31482,-1.70443,S32 1,Derbyshire Dales
+Derbyshire,England,52.90626,-1.38046,DE72 3,Erewash
+Derbyshire,England,53.37500,-1.70836,S33 0,High Peak
+Derbyshire,England,53.17437,-1.45871,S42 6,North East Derbyshire
+Derbyshire,England,52.88717,-1.36416,DE72 3,South Derbyshire
+Devon,England,50.36858,-4.13580,PL4 0,City of Plymouth
+Devon,England,50.88896,-3.22276,EX14 4,East Devon
+Devon,England,50.69964,-3.53362,EX2 8,Exeter
+Devon,England,50.85093,-3.34641,EX15 2,Mid Devon
+Devon,England,51.21547,-3.77252,EX35 6,North Devon
+Devon,England,50.41887,-3.63068,TQ9 6,South Hams
+Devon,England,50.53296,-3.61246,TQ12 2,Teignbridge
+Devon,England,50.47776,-3.51588,TQ1 3,Torbay
+Devon,England,50.89745,-4.29936,EX22 7,Torridge
+Devon,England,50.76140,-4.11842,EX20 3,West Devon
+Dorset,England,50.75008,-1.93758,BH12 4,"Bournemouth, Christchurch and Poole"
+Dorset,England,50.66559,-2.59953,DT3 4,Dorset
+Dumfries,Scotland,55.18706,-3.59601,DG1 1,Dumfries and Galloway
+Dunbartonshire,Scotland,56.08633,-4.63688,G83 8,Argyll and Bute
+Dunbartonshire,Scotland,55.96395,-4.12490,G66 8,East Dunbartonshire
+Dunbartonshire,Scotland,55.95798,-3.94860,G67 3,North Lanarkshire
+Dunbartonshire,Scotland,55.98795,-4.58236,G83 0,West Dunbartonshire
+Durham,England,54.84622,-1.88001,DH8 9,County Durham
+Durham,England,54.53316,-1.53963,DL1 2,Darlington
+Durham,England,54.67896,-1.21116,TS25 1,Hartlepool
+Durham,England,54.50495,-1.37688,TS16 0,Stockton-on-Tees
+Dyfed,Wales,52.03596,-4.45692,SA38 9,Carmarthenshire / Sir Gaerfyrddin
+Dyfed,Wales,52.11315,-4.22539,SA40 9,Ceredigion / Sir Ceredigion
+Dyfed,Wales,51.95820,-5.12466,SA62 5,Pembrokeshire / Sir Benfro
+East Lothian,Scotland,56.00952,-2.85890,EH32 0,East Lothian
+East Riding of Yorkshire,England,53.74409,-0.41019,HU4 7,City of Kingston upon Hull
+East Riding of Yorkshire,England,53.67860,-0.72468,DN14 8,East Riding of Yorkshire
+East Sussex,England,50.79795,0.33509,BN23 5,Eastbourne
+East Sussex,England,50.88193,0.62041,TN35 5,Hastings
+East Sussex,England,50.89082,0.07838,BN8 5,Lewes
+East Sussex,England,50.92335,0.39608,TN33 9,Rother
+East Sussex,England,50.83103,-0.19374,BN3 4,The City of Brighton and Hove
+East Sussex,England,50.83113,0.13753,BN26 6,Wealden
+Essex,England,51.56840,0.48499,SS14 1,Basildon
+Essex,England,51.97080,0.55626,CO9 3,Braintree
+Essex,England,51.68644,0.35501,CM4 0,Brentwood
+Essex,England,51.52295,0.59237,SS8 9,Castle Point
+Essex,England,51.69474,0.49450,CM2 7,Chelmsford
+Essex,England,51.83440,0.91066,CO5 7,Colchester
+Essex,England,51.78000,0.28172,CM5 0,Epping Forest
+Essex,England,51.75807,0.11585,CM18 6,Harlow
+Essex,England,51.66331,0.75880,CM3 6,Maldon
+Essex,England,51.60747,0.69141,SS4 3,Rochford
+Essex,England,51.54142,0.75664,SS1 3,Southend-on-Sea
+Essex,England,51.84144,1.07305,CO7 8,Tendring
+Essex,England,51.49930,0.25177,RM15 4,Thurrock
+Essex,England,51.80776,0.21277,CM22 7,Uttlesford
+Fife,Scotland,56.06989,-3.46159,KY12 7,Fife
+Gloucestershire,England,51.90122,-2.09284,GL51 8,Cheltenham
+Gloucestershire,England,51.76730,-1.84998,GL7 5,Cotswold
+Gloucestershire,England,51.85366,-2.48090,GL17 0,Forest of Dean
+Gloucestershire,England,51.84615,-2.19922,GL4 4,Gloucester
+Gloucestershire,England,51.61351,-2.45223,GL12 8,South Gloucestershire
+Gloucestershire,England,51.70508,-2.45873,GL13 9,Stroud
+Gloucestershire,England,51.99821,-1.99921,GL20 8,Tewkesbury
+Greater London,England,51.53817,0.07892,IG11 8,Barking and Dagenham
+Greater London,England,51.64772,-0.23199,EN5 3,Barnet
+Greater London,England,51.42640,0.10260,DA14 6,Bexley
+Greater London,England,51.54202,-0.29576,HA0 1,Brent
+Greater London,England,51.41200,-0.06572,SE20 8,Bromley
+Greater London,England,51.54490,-0.16320,NW3 3,Camden
+Greater London,England,51.51320,-0.07770,EC3M 4,City of London
+Greater London,England,51.51320,-0.11670,WC2B 4,City of Westminster
+Greater London,England,51.35822,-0.03232,CR0 5,Croydon
+Greater London,England,51.50673,-0.26831,W3 6,Ealing
+Greater London,England,51.61630,-0.12860,N11 1,Enfield
+Greater London,England,51.49083,0.10803,SE2 9,Greenwich
+Greater London,England,51.56274,-0.09599,N4 2,Hackney
+Greater London,England,51.49613,-0.21915,W6 7,Hammersmith and Fulham
+Greater London,England,51.59899,-0.13688,N22 7,Haringey
+Greater London,England,51.60063,-0.31689,HA3 8,Harrow
+Greater London,England,51.58085,0.22015,RM11 2,Havering
+Greater London,England,51.52588,-0.45893,UB8 3,Hillingdon
+Greater London,England,51.48347,-0.30639,TW8 0,Hounslow
+Greater London,England,51.53210,-0.10660,N1 9,Islington
+Greater London,England,51.49374,-0.17167,SW7 2,Kensington and Chelsea
+Greater London,England,51.39070,-0.28220,KT5 9,Kingston upon Thames
+Greater London,England,51.46104,-0.11115,SW9 8,Lambeth
+Greater London,England,51.42836,-0.03426,SE26 5,Lewisham
+Greater London,England,51.40592,-0.21757,SW20 9,Merton
+Greater London,England,51.51583,0.05879,E6 5,Newham
+Greater London,England,51.58297,0.10132,IG2 7,Redbridge
+Greater London,England,51.47376,-0.24952,SW13 9,Richmond upon Thames
+Greater London,England,51.50820,-0.10010,SE1 9,Southwark
+Greater London,England,51.36255,-0.13453,SM6 8,Sutton
+Greater London,England,51.52747,-0.05596,E2 9,Tower Hamlets
+Greater London,England,51.55800,0.01200,E11 3,Waltham Forest
+Greater London,England,51.44422,-0.15057,SW12 9,Wandsworth
+Greater Manchester,England,53.60418,-2.43151,BL1 7,Bolton
+Greater Manchester,England,53.61778,-2.37094,BL8 3,Bury
+Greater Manchester,England,53.46514,-2.15963,M18 8,Manchester
+Greater Manchester,England,53.55218,-2.09701,OL1 4,Oldham
+Greater Manchester,England,53.53744,-2.19625,M24 1,Rochdale
+Greater Manchester,England,53.49380,-2.37547,M30 8,Salford
+Greater Manchester,England,53.39130,-2.16962,SK3 8,Stockport
+Greater Manchester,England,53.38809,-2.35146,WA14 1,Trafford
+Greater Manchester,England,53.50949,-2.59264,WN2 5,Wigan
+Gwent,Wales,51.71028,-3.14801,NP13 2,Blaenau Gwent
+Gwent,Wales,51.69369,-3.22416,CF81 9,Caerphilly / Caerffili
+Gwent,Wales,51.82194,-3.01838,NP7 5,Monmouthshire / Sir Fynwy
+Gwent,Wales,51.59103,-3.00873,NP20 5,Newport / Casnewydd
+Gwent,Wales,51.73582,-3.06720,NP4 7,Torfaen - Torfaen
+Gwynedd,Wales,52.67812,-3.71160,SY20 9,Gwynedd
+Gwynedd,Wales,53.19140,-4.46484,LL63 5,Isle of Anglesey / Sir Ynys Mon
+Hampshire,England,51.36766,-1.30291,RG20 4,Basingstoke and Deane
+Hampshire,England,50.82683,-1.05248,PO3 5,City of Portsmouth
+Hampshire,England,50.93433,-1.43624,SO16 5,City of Southampton
+Hampshire,England,51.14864,-0.97584,GU34 1,East Hampshire
+Hampshire,England,50.99469,-1.35076,SO50 4,Eastleigh
+Hampshire,England,50.84747,-1.26597,PO14 4,Fareham
+Hampshire,England,50.78689,-1.15015,PO12 2,Gosport
+Hampshire,England,51.33106,-0.77990,GU17 0,Hart
+Hampshire,England,50.85963,-1.00349,PO9 3,Havant
+Hampshire,England,50.86199,-1.60432,SO43 7,New Forest
+Hampshire,England,51.24989,-0.76169,GU11 1,Rushmoor
+Hampshire,England,51.00926,-1.48660,SO51 7,Test Valley
+Hampshire,England,51.10725,-1.19707,SO24 9,Winchester
+Herefordshire,England,51.96946,-2.89607,HR2 0,County of Herefordshire
+Hertfordshire,England,51.74188,-0.02332,EN10 7,Broxbourne
+Hertfordshire,England,51.75522,-0.45867,HP2 4,Dacorum
+Hertfordshire,England,51.90182,0.08005,SG11 2,East Hertfordshire
+Hertfordshire,England,51.67334,-0.35355,WD25 8,Hertsmere
+Hertfordshire,England,51.85724,-0.31841,SG4 8,North Hertfordshire
+Hertfordshire,England,51.80484,-0.30845,AL4 8,St. Albans
+Hertfordshire,England,51.90180,-0.19049,SG1 1,Stevenage
+Hertfordshire,England,51.70577,-0.41754,WD5 0,Three Rivers
+Hertfordshire,England,51.68965,-0.38625,WD25 0,Watford
+Hertfordshire,England,51.81413,-0.23496,AL6 9,Welwyn Hatfield
+Inverness,Scotland,56.95353,-4.50913,PH20 1,Highland
+Isle of Man,Isle of Man,54.25018,-4.40358,IM7 3,Isle of Man
+Isle of Wight,England,50.67265,-1.15953,PO36 0,Isle of Wight
+Kent,England,51.01786,0.71719,TN30 7,Ashford
+Kent,England,51.23836,1.18678,CT3 3,Canterbury
+Kent,England,51.42683,0.28361,DA2 8,Dartford
+Kent,England,51.13581,1.22396,CT15 7,Dover
+Kent,England,51.13863,1.13618,CT18 8,Folkestone and Hythe
+Kent,England,51.38242,0.37687,DA13 0,Gravesham
+Kent,England,51.28663,0.49688,ME16 0,Maidstone
+Kent,England,51.46982,0.64544,ME3 9,Medway
+Kent,England,51.35693,0.29439,TN15 7,Sevenoaks
+Kent,England,51.25003,0.87903,ME13 0,Swale
+Kent,England,51.35614,1.31277,CT7 0,Thanet
+Kent,England,51.30488,0.37828,ME19 5,Tonbridge and Malling
+Kent,England,51.13051,0.15981,TN3 9,Tunbridge Wells
+Kincardineshire,Scotland,57.01968,-2.55365,AB31 6,Aberdeenshire
+Lanarkshire,Scotland,55.86604,-3.98089,ML6 6,North Lanarkshire
+Lanarkshire,Scotland,55.49206,-3.69204,ML12 6,South Lanarkshire
+Lancashire,England,53.71243,-2.47902,BB3 0,Blackburn with Darwen
+Lancashire,England,53.87165,-3.03338,FY5 3,Blackpool
+Lancashire,England,53.78974,-2.19881,BB10 3,Burnley
+Lancashire,England,53.70007,-2.54594,PR6 8,Chorley
+Lancashire,England,53.74684,-2.99245,FY8 4,Fylde
+Lancashire,England,53.75275,-2.36424,BB5 2,Hyndburn
+Lancashire,England,53.98364,-2.66703,LA2 9,Lancaster
+Lancashire,England,53.86104,-2.27336,BB12 9,Pendle
+Lancashire,England,53.78883,-2.56612,BB2 7,Ribble Valley
+Lancashire,England,53.72033,-2.32413,BB4 5,Rossendale
+Lancashire,England,53.73143,-2.66200,PR5 6,South Ribble
+Lancashire,England,53.62228,-2.73737,L40 3,West Lancashire
+Lancashire,England,53.85359,-2.74366,PR3 0,Wyre
+Leicestershire,England,52.52973,-1.31946,LE10 3,Blaby
+Leicestershire,England,52.67300,-1.18767,LE7 7,Charnwood
+Leicestershire,England,52.60141,-1.15341,LE2 8,City of Leicester
+Leicestershire,England,52.59547,-0.79300,LE15 9,Harborough
+Leicestershire,England,52.58163,-1.48039,CV13 6,Hinckley and Bosworth
+Leicestershire,England,52.80007,-0.92801,LE14 3,Melton
+Leicestershire,England,52.71509,-1.55833,DE12 8,North West Leicestershire
+Leicestershire,England,52.57185,-1.09400,LE18 3,Oadby and Wigston
+Lincolnshire,England,52.89953,-0.07993,PE20 2,Boston
+Lincolnshire,England,53.28342,0.11672,LN13 0,East Lindsey
+Lincolnshire,England,53.21474,-0.60325,LN6 0,Lincoln
+Lincolnshire,England,53.48909,-0.11157,DN37 0,North East Lincolnshire
+Lincolnshire,England,53.04083,-0.33892,NG34 9,North Kesteven
+Lincolnshire,England,53.68734,-0.66221,DN15 9,North Lincolnshire
+Lincolnshire,England,52.77783,-0.07484,PE12 6,South Holland
+Lincolnshire,England,52.93720,-0.49672,NG32 3,South Kesteven
+Lincolnshire,England,53.42603,-0.68909,DN21 5,West Lindsey
+Merseyside,England,53.40559,-2.87221,L16 2,Knowsley
+Merseyside,England,53.36594,-2.91704,L19 9,Liverpool
+Merseyside,England,53.60201,-3.04043,PR8 3,Sefton
+Merseyside,England,53.45184,-2.69390,WA9 2,St. Helens
+Merseyside,England,53.37566,-3.09960,CH49 0,Wirral
+Mid Glamorgan,Wales,51.55390,-3.57447,CF32 8,Bridgend / Pen-y-bont ar Ogwr
+Mid Glamorgan,Wales,51.72359,-3.36443,CF48 1,Merthyr Tydfil / Merthyr Tudful
+Mid Glamorgan,Wales,51.70173,-3.42969,CF44 6,Rhondda Cynon Taf
+Midlothian,Scotland,55.84769,-3.05702,EH23 4,Midlothian
+Moray,Scotland,57.59846,-3.18461,IV30 8,Moray
+Nairn,Scotland,57.50709,-3.93884,IV12 5,Highland
+Norfolk,England,52.54254,0.95498,NR17 1,Breckland
+Norfolk,England,52.70395,1.58541,NR29 5,Great Yarmouth
+Norfolk,England,52.83465,0.58399,PE31 6,King's Lynn and West Norfolk
+Norfolk,England,52.84958,1.29053,NR11 7,North Norfolk
+Norfolk,England,52.62356,1.27680,NR2 2,Norwich
+Norfolk,England,52.43147,1.33895,IP20 0,South Norfolk
+North Yorkshire,England,53.91465,-2.00910,BD20 8,Craven
+North Yorkshire,England,54.22309,-1.46865,YO7 4,Hambleton
+North Yorkshire,England,54.54290,-1.25430,TS5 7,Middlesbrough
+North Yorkshire,England,54.54394,-0.98257,TS12 3,Redcar and Cleveland
+North Yorkshire,England,54.27378,-1.86784,DL8 4,Richmondshire
+North Yorkshire,England,54.04520,-0.80555,YO17 9,Ryedale
+North Yorkshire,England,54.46259,-0.91421,YO21 2,Scarborough
+North Yorkshire,England,53.86570,-1.12883,YO23 7,Selby
+North Yorkshire,England,54.52543,-1.31868,TS17 5,Stockton-on-Tees
+North Yorkshire,England,53.90186,-1.10691,YO23 2,York
+Northamptonshire,England,52.47905,-0.77197,LE16 8,Corby
+Northamptonshire,England,52.42535,-0.89211,LE16 8,Daventry
+Northamptonshire,England,52.43470,-0.49511,PE8 5,East Northamptonshire
+Northamptonshire,England,52.51010,-0.82928,LE16 8,Kettering
+Northamptonshire,England,52.24496,-0.85840,NN3 3,Northampton
+Northamptonshire,England,52.11252,-1.05275,NN12 8,South Northamptonshire
+Northamptonshire,England,52.22160,-0.67507,NN29 7,Wellingborough
+Northumberland,England,55.41325,-1.79720,NE66 2,Northumberland
+Nottinghamshire,England,53.06946,-1.30399,NG16 6,Ashfield
+Nottinghamshire,England,53.26697,-0.89160,NG22 0,Bassetlaw
+Nottinghamshire,England,52.90698,-1.23206,NG9 6,Broxtowe
+Nottinghamshire,England,52.97112,-1.13827,NG3 4,City of Nottingham
+Nottinghamshire,England,53.00237,-1.12595,NG5 7,Gedling
+Nottinghamshire,England,53.13223,-1.21684,NG18 5,Mansfield
+Nottinghamshire,England,52.97228,-0.81930,NG13 9,Newark and Sherwood
+Nottinghamshire,England,52.93844,-1.10605,NG2 5,Rushcliffe
+Orkney,Scotland,59.13606,-3.23533,KW17 2,Orkney Islands
+Oxfordshire,England,52.01692,-1.31175,OX17 3,Cherwell
+Oxfordshire,England,51.76454,-1.19393,OX3 9,Oxford
+Oxfordshire,England,51.69040,-0.99404,OX9 7,South Oxfordshire
+Oxfordshire,England,51.67014,-1.28098,OX14 3,Vale of White Horse
+Oxfordshire,England,51.73870,-1.60811,OX18 2,West Oxfordshire
+Perth and Kinross,Scotland,56.32690,-3.35753,PH2 9,Perth and Kinross
+Powys,Wales,52.33104,-3.38988,LD1 6,Powys
+Renfrewshire,Scotland,55.79666,-4.39436,G78 2,East Renfrewshire
+Renfrewshire,Scotland,55.95593,-4.82662,PA19 1,Inverclyde
+Renfrewshire,Scotland,55.90861,-4.46721,PA8 6,Renfrewshire
+Ross and Cromarty,Scotland,57.43261,-6.19851,IV51 9,Highland
+"Roxburgh, Ettrick and Lauderdale",Scotland,55.40936,-2.61892,TD9 8,Scottish Borders
+Rutland,England,52.62933,-0.54614,PE9 3,Rutland
+Shetland,Scotland,60.28491,-1.38389,ZE2 9,Shetland Islands
+Shropshire,England,52.89393,-2.73475,SY13 2,Shropshire
+Shropshire,England,52.76294,-2.44415,TF10 8,Telford and Wrekin
+Somerset,England,51.32641,-2.49633,BA2 0,Bath and North East Somerset
+Somerset,England,51.19028,-2.32334,BA11 5,Mendip
+Somerset,England,51.46071,-2.66640,BS8 3,North Somerset
+Somerset,England,51.13410,-3.17031,TA5 1,Sedgemoor
+Somerset,England,51.05711,-3.03231,TA2 8,Somerset West and Taunton
+Somerset,England,51.00283,-2.41825,BA8 0,South Somerset
+South Glamorgan,Wales,51.48143,-3.16602,CF24 0,Cardiff / Caerdydd
+South Glamorgan,Wales,51.46798,-3.42632,CF71 7,The Vale of Glamorgan / Bro Morgannwg
+South Yorkshire,England,53.54762,-1.43182,S71 5,Barnsley
+South Yorkshire,England,53.57186,-1.18606,DN6 7,Doncaster
+South Yorkshire,England,53.48143,-1.34598,S62 7,Rotherham
+South Yorkshire,England,53.33603,-1.51011,S8 0,Sheffield
+Staffordshire,England,52.69793,-2.02119,WS11 5,Cannock Chase
+Staffordshire,England,53.03506,-2.14002,ST2 8,City of Stoke-on-Trent
+Staffordshire,England,52.81719,-1.87725,WS15 3,East Staffordshire
+Staffordshire,England,52.66512,-1.84618,WS14 0,Lichfield
+Staffordshire,England,53.07609,-2.23685,ST6 4,Newcastle-under-Lyme
+Staffordshire,England,52.77063,-2.10739,ST17 0,South Staffordshire
+Staffordshire,England,52.85295,-2.34810,ST20 0,Stafford
+Staffordshire,England,53.11713,-2.03283,ST13 8,Staffordshire Moorlands
+Staffordshire,England,52.63050,-1.66056,B77 4,Tamworth
+Stirling and Falkirk,Scotland,56.06849,-3.77018,FK2 8,Falkirk
+Stirling and Falkirk,Scotland,56.17811,-4.37868,FK8 3,Stirling
+Suffolk,England,52.07071,0.76097,CO10 0,Babergh
+Suffolk,England,52.15203,1.60134,IP15 5,East Suffolk
+Suffolk,England,52.04054,1.20312,IP3 8,Ipswich
+Suffolk,England,52.09457,1.13315,IP1 6,Mid Suffolk
+Suffolk,England,52.30850,0.73677,IP31 1,West Suffolk
+Surrey,England,51.39051,-0.42429,TW17 8,Elmbridge
+Surrey,England,51.34518,-0.23639,KT17 3,Epsom and Ewell
+Surrey,England,51.25201,-0.55628,GU1 1,Guildford
+Surrey,England,51.19096,-0.38780,RH5 6,Mole Valley
+Surrey,England,51.32189,-0.20459,SM7 2,Reigate and Banstead
+Surrey,England,51.39692,-0.49929,KT16 8,Runnymede
+Surrey,England,51.43287,-0.46206,TW15 2,Spelthorne
+Surrey,England,51.36146,-0.69280,GU19 5,Surrey Heath
+Surrey,England,51.20507,-0.05760,RH9 8,Tandridge
+Surrey,England,51.18291,-0.63098,GU7 2,Waverley
+Surrey,England,51.30431,-0.63651,GU24 0,Woking
+Sutherland,Scotland,57.98000,-4.42114,IV27 4,Highland
+The Stewartry of Kirkcudbright,Scotland,54.95903,-3.97713,DG7 2,Dumfries and Galloway
+Tweeddale,Scotland,55.64268,-3.24874,EH45 9,Scottish Borders
+Tyne and Wear,England,54.92179,-1.59633,NE9 6,Gateshead
+Tyne and Wear,England,54.97565,-1.63521,NE4 5,Newcastle upon Tyne
+Tyne and Wear,England,55.04381,-1.52946,NE27 0,North Tyneside
+Tyne and Wear,England,54.96154,-1.44935,NE34 9,South Tyneside
+Tyne and Wear,England,54.90705,-1.53236,NE37 1,Sunderland
+Warwickshire,England,52.56708,-1.75703,B78 2,North Warwickshire
+Warwickshire,England,52.46221,-1.50996,CV7 9,Nuneaton and Bedworth
+Warwickshire,England,52.44597,-1.41705,CV7 9,Rugby
+Warwickshire,England,52.15082,-1.90108,WR11 8,Stratford-on-Avon
+Warwickshire,England,52.34412,-1.58043,CV8 1,Warwick
+West Glamorgan,Wales,51.59331,-3.80199,SA12 6,Neath Port Talbot / Castell-nedd Port Talbot
+West Glamorgan,Wales,51.69447,-3.89984,SA6 5,Swansea / Abertawe
+West Lothian,Scotland,55.99415,-3.47281,EH30 9,West Lothian
+West Midlands,England,52.44573,-1.82716,B27 7,Birmingham
+West Midlands,England,52.60715,-2.15130,WV6 9,City of Wolverhampton
+West Midlands,England,52.44814,-1.47230,CV2 1,Coventry
+West Midlands,England,52.46452,-2.14684,DY8 4,Dudley
+West Midlands,England,52.51708,-2.02199,B70 9,Sandwell
+West Midlands,England,52.48514,-1.74373,B37 5,Solihull
+West Midlands,England,52.60541,-1.91722,WS9 8,Walsall
+West Sussex,England,50.85313,-0.35255,BN15 0,Adur
+West Sussex,England,50.87680,-0.87075,PO18 9,Chichester
+West Sussex,England,51.10506,-0.22034,RH11 8,Crawley
+West Sussex,England,50.93945,-0.43327,RH20 3,Horsham
+West Sussex,England,50.97296,-0.14434,RH15 8,Mid Sussex
+West Sussex,England,50.82935,-0.36710,BN14 9,Worthing
+West Yorkshire,England,53.94400,-1.88276,LS29 0,Bradford
+West Yorkshire,England,53.73263,-1.86569,HX3 6,Calderdale
+West Yorkshire,England,53.67031,-1.81903,HD2 2,Kirklees
+West Yorkshire,England,53.82978,-1.34296,LS25 3,Leeds
+West Yorkshire,England,53.69139,-1.37831,WF7 6,Wakefield
+Western Isles,Scotland,57.96225,-6.99368,HS3 3,Na h-Eileanan an Iar
+Wigtown,Scotland,54.89953,-4.97039,DG9 8,Dumfries and Galloway
+Wiltshire,England,51.60084,-1.79642,SN25 4,Swindon
+Wiltshire,England,51.22188,-1.77288,SP4 8,Wiltshire
+Worcestershire,England,52.35054,-2.08217,B61 9,Bromsgrove
+Worcestershire,England,52.30522,-2.37574,WR6 6,Malvern Hills
+Worcestershire,England,52.31170,-1.92659,B98 8,Redditch
+Worcestershire,England,52.21135,-2.20678,WR3 8,Worcester
+Worcestershire,England,52.37785,-2.24438,DY10 1,Wyre Forest

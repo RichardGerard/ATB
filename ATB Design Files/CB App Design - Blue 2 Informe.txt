@@ -1,0 +1,64 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: CB App Design - Blue 2.ai
+Modo de color: Color RGB
+Perfil de color: sRGB IEC61966-2.1
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 1121,6183 px x 2434 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Engravers' Gothic BT (TrueType)
+Roboto Condensed Bold (TrueType)
+Roboto Black (TrueType)
+Roboto Thin (TrueType)
+Roboto Light (TrueType)
+Roboto (TrueType)
+Roboto Medium (TrueType)
+Roboto Bold (TrueType)
+Roboto Condensed (TrueType)
+Roboto Condensed Light (TrueType)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+C:\Users\cbast\Creative Cloud Files\Trabajo\failed good designs\maps.psd
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 3498K, 750 por 1194 píxeles
+Dimensiones: 1121 por 1784,632 puntos 
+Resolución: 48,171 por 48,171 píxeles por pulgada
+
+
+C:\Users\cbast\Downloads\PHOTO-2018-06-19-09-01-30.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 292K, 694 por 144 píxeles
+Dimensiones: 694 por 144 puntos 
+Resolución: 72 por 72 píxeles por pulgada

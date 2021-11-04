@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16086"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ReplyNameView" customModule="ATB" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="36"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="t47-79-jv9">
+                    <rect key="frame" x="0.0" y="0.0" width="36" height="36"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="multiply.circle.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="oSN-Gj-cb4">
+                            <rect key="frame" x="12" y="12.5" width="20" height="19"/>
+                            <color key="tintColor" red="0.64705882349999999" green="0.74509803919999995" blue="0.86274509799999999" alpha="1" colorSpace="calibratedRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="20" id="Kbl-j8-o0D"/>
+                                <constraint firstAttribute="width" constant="20" id="l2w-gf-PHg"/>
+                            </constraints>
+                        </imageView>
+                        <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="d53-Im-a3X">
+                            <rect key="frame" x="0.0" y="0.0" width="36" height="36"/>
+                            <color key="tintColor" red="0.64705882349999999" green="0.74509803919999995" blue="0.86274509799999999" alpha="1" colorSpace="calibratedRGB"/>
+                            <connections>
+                                <action selector="didTapClose:" destination="iN0-l3-epB" eventType="touchUpInside" id="Fva-nO-Qbg"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="36" id="04Y-cB-TSU"/>
+                        <constraint firstItem="oSN-Gj-cb4" firstAttribute="centerX" secondItem="t47-79-jv9" secondAttribute="centerX" constant="4" id="ApO-7A-CA5"/>
+                        <constraint firstAttribute="bottom" secondItem="d53-Im-a3X" secondAttribute="bottom" id="FDY-X1-Ulc"/>
+                        <constraint firstAttribute="width" constant="36" id="Gh9-Sa-ydY"/>
+                        <constraint firstItem="oSN-Gj-cb4" firstAttribute="centerY" secondItem="t47-79-jv9" secondAttribute="centerY" constant="4" id="HYW-cZ-BPo"/>
+                        <constraint firstAttribute="width" secondItem="t47-79-jv9" secondAttribute="height" id="JWp-HX-a6D"/>
+                        <constraint firstAttribute="trailing" secondItem="d53-Im-a3X" secondAttribute="trailing" id="MYh-YN-WQ5"/>
+                        <constraint firstItem="d53-Im-a3X" firstAttribute="top" secondItem="t47-79-jv9" secondAttribute="top" id="Mws-s4-eBM"/>
+                        <constraint firstItem="d53-Im-a3X" firstAttribute="leading" secondItem="t47-79-jv9" secondAttribute="leading" id="Nxf-pD-1Rg"/>
+                    </constraints>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" text="Replying to thaya_spa" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5Qv-1j-gMf">
+                    <rect key="frame" x="36" y="13" width="149" height="18"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+            <constraints>
+                <constraint firstItem="5Qv-1j-gMf" firstAttribute="leading" secondItem="t47-79-jv9" secondAttribute="trailing" id="3mg-ea-GeY"/>
+                <constraint firstItem="t47-79-jv9" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="K2O-Go-M3C"/>
+                <constraint firstAttribute="bottom" secondItem="t47-79-jv9" secondAttribute="bottom" id="kXt-Ql-K51"/>
+                <constraint firstItem="5Qv-1j-gMf" firstAttribute="centerY" secondItem="t47-79-jv9" secondAttribute="centerY" constant="4" id="raq-KA-uSA"/>
+                <constraint firstItem="t47-79-jv9" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="v7l-5g-nyH"/>
+                <constraint firstItem="t47-79-jv9" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="yvs-Q2-Ihb"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="lblUserName" destination="5Qv-1j-gMf" id="eqy-sX-3sD"/>
+            </connections>
+            <point key="canvasLocation" x="131.19999999999999" y="152.92353823088456"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="multiply.circle.fill" catalog="system" width="128" height="121"/>
+    </resources>
+</document>

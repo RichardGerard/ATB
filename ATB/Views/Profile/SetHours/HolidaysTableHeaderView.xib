@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="qYg-LZ-kHT" customClass="HolidaysTableHeaderView" customModule="ATB" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="60"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="evR-OR-7Ou">
+                    <rect key="frame" x="16" y="20" width="18" height="18"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="18" id="2Xl-P9-2BA"/>
+                        <constraint firstAttribute="width" constant="18" id="9Ic-4X-RSn"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XAz-G3-cOl">
+                    <rect key="frame" x="42" y="20" width="356" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="xP0-Kl-Esk"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="XAz-G3-cOl" firstAttribute="top" secondItem="qYg-LZ-kHT" secondAttribute="top" constant="20" id="Ibq-sk-cPP"/>
+                <constraint firstAttribute="trailing" secondItem="XAz-G3-cOl" secondAttribute="trailing" constant="16" id="Wxo-8H-371"/>
+                <constraint firstItem="evR-OR-7Ou" firstAttribute="leading" secondItem="qYg-LZ-kHT" secondAttribute="leading" constant="16" id="iWM-G1-Sna"/>
+                <constraint firstItem="evR-OR-7Ou" firstAttribute="top" secondItem="XAz-G3-cOl" secondAttribute="top" id="nD1-4R-e0j"/>
+                <constraint firstItem="XAz-G3-cOl" firstAttribute="leading" secondItem="evR-OR-7Ou" secondAttribute="trailing" constant="8" id="sZN-CR-ctX"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="imvMinus" destination="evR-OR-7Ou" id="M8B-5y-Zs6"/>
+                <outlet property="lblDescription" destination="XAz-G3-cOl" id="3kT-Kp-cLk"/>
+            </connections>
+            <point key="canvasLocation" x="618" y="83"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" restorationIdentifier="ProfilePostListCollectionCell" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="ProfilePostListCollectionCell" rowHeight="350" id="QK3-D2-Evp" customClass="ProfilePostListCollectionCell" customModule="ATB" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="350"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="QK3-D2-Evp" id="Kfz-ML-Ijx">
+                <rect key="frame" x="0.0" y="0.0" width="414" height="350"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="WD5-m9-MSn">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="350"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <collectionViewFlowLayout key="collectionViewLayout" automaticEstimatedItemSize="YES" minimumLineSpacing="10" minimumInteritemSpacing="10" id="hV4-ZZ-BA2">
+                            <size key="itemSize" width="414" height="352"/>
+                            <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                            <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                            <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                        </collectionViewFlowLayout>
+                        <cells/>
+                    </collectionView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="WD5-m9-MSn" secondAttribute="bottom" id="N0w-mv-uUP"/>
+                    <constraint firstItem="WD5-m9-MSn" firstAttribute="leading" secondItem="Kfz-ML-Ijx" secondAttribute="leading" id="WW7-QR-3lA"/>
+                    <constraint firstAttribute="trailing" secondItem="WD5-m9-MSn" secondAttribute="trailing" id="gu4-7i-fkv"/>
+                    <constraint firstItem="WD5-m9-MSn" firstAttribute="top" secondItem="Kfz-ML-Ijx" secondAttribute="top" id="kkv-Zs-Y0b"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="clvPosts" destination="WD5-m9-MSn" id="yb0-6P-OrD"/>
+            </connections>
+            <point key="canvasLocation" x="132" y="106"/>
+        </tableViewCell>
+    </objects>
+</document>
